@@ -1,4 +1,4 @@
-Name of QuantLet:     Finding all combinations of initial weights
+Name of QuantLet:     Finding_all_Combinations_of_initial_Weights
 
 Published in:         'DEDA Class'
 
