@@ -14,7 +14,7 @@ Keywords: LSTM, predictions, export
 
 Author: Georg Velev, Iliyana Pekova
 
-Submitted: Thu, July 25 2019 by Georg Velev, Iliyana Pekova
+Submitted: Thu, August 01 2019 by Georg Velev, Iliyana Pekova
 
 Output: 'predictions_for_export in csv Format.'
 ```
