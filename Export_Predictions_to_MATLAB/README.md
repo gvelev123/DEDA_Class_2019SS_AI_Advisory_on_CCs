@@ -1,7 +1,7 @@
 [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="888" alt="Visit QuantNet">](http://quantlet.de/)
 
 ```yaml
-Name of QuantLet: Export Predictions to MATLAB
+Name of QuantLet: Export_Predictions_to_MATLAB
 
 Published in: 'DEDA Class'
 
