@@ -1,7 +1,7 @@
 [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="888" alt="Visit QuantNet">](http://quantlet.de/)
 
 ```yaml
-Name of QuantLet: Plot CVaR for the different initial weights
+Name of QuantLet: Plot_CVaR_for_different_initial_Weights
 
 Published in: 'DEDA Class'
 
