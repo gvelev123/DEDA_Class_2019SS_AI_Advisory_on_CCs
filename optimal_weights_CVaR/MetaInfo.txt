@@ -1,4 +1,4 @@
-Name of QuantLet:  Optimal weights and minimal CVaR
+Name of QuantLet:  optimal_weights_CVaR
 
 Published in:      'DEDA Class'
 
