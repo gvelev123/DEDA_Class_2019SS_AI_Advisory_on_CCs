@@ -11,7 +11,7 @@ Keywords: plot, CVaR, convergence, all sets of initial weights
 
 Author: Georg Velev, Iliyana Pekova
 
-Submitted: Thu, July 25 2019 by Georg Velev, Iliyana Pekova
+Submitted: Thu, August 01 2019 by Georg Velev, Iliyana Pekova
 
 Output: 'CVaR_convergence in .PNG format'
 ```
