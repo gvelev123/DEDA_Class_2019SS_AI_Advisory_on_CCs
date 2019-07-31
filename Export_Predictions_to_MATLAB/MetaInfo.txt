@@ -1,4 +1,4 @@
-Name of QuantLet:     Export Predictions to MATLAB
+Name of QuantLet:     Export_Predictions_to_MATLAB
 
 Published in:         'DEDA Class'
 
