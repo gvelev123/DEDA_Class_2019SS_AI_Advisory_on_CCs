@@ -1,7 +1,7 @@
 [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="888" alt="Visit QuantNet">](http://quantlet.de/)
 
 ```yaml
-Name of QuantLet: Optimal weights and minimal CVaR
+Name of QuantLet: optimal_weights_CVaR
 
 Published in: 'DEDA Class'
 
