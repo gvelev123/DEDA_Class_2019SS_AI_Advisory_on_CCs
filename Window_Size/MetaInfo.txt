@@ -1,4 +1,4 @@
-Name of QuantLet:   Window-Size
+Name of QuantLet:   Window_Size
 
 Published in:       'DEDA Class'
 
