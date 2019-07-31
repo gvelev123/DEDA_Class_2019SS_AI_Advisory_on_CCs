@@ -12,7 +12,7 @@ Keywords: cryptocurrency, data, preprocessing
 
 Author: Georg Velev, Iliyana Pekova
 
-Submitted: Thu, July 25 2019 by Georg Velev, Iliyana Pekova
+Submitted: Thu, August 01 2019 by Georg Velev, Iliyana Pekova
 
 Output: 'Split_sequence in .PNG format'
 
