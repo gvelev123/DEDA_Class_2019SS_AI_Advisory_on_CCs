@@ -1,4 +1,4 @@
-Name of QuantLet:   Plot CVaR for the different initial weights
+Name of QuantLet:   Plot_CVaR_for_different_initial_Weights
 
 Published in:       'DEDA Class'
 
