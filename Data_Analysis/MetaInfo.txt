@@ -1,4 +1,4 @@
-Name of QuantLet:   Data Analysis
+Name of QuantLet:   Data_Analysis
 
 Published in:       'DEDA Class'
 
