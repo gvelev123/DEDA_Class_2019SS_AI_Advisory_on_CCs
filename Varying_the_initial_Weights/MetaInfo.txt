@@ -1,4 +1,4 @@
-Name of QuantLet:  Varying the initial weights
+Name of QuantLet:  Varying_the_initial_Weights
 
 Published in:      'DEDA Class'
 
