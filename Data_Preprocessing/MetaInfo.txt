@@ -1,4 +1,4 @@
-Name of QuantLet:   Data Preprocessing
+Name of QuantLet:   Data_Preprocessing
 
 Published in:       'DEDA Class'
 
