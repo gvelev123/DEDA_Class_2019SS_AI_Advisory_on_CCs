@@ -1,7 +1,7 @@
 [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="888" alt="Visit QuantNet">](http://quantlet.de/)
 
 ```yaml
-Name of QuantLet: Plot CVaR convergence
+Name of QuantLet: CVaR_converging
 
 Published in: 'DEDA Class'
 
