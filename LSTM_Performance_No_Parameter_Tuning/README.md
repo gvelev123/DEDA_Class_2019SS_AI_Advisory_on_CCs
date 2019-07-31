@@ -1,7 +1,7 @@
 [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="888" alt="Visit QuantNet">](http://quantlet.de/)
 
 ```yaml
-Name of QuantLet: Performance of LSTM without Parameter Tuning
+Name of QuantLet: LSTM_Performance_No_Parameter_Tuning
 
 Published in: 'DEDA Class'
 
