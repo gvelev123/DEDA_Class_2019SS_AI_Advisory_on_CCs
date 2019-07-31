@@ -1,4 +1,4 @@
-Name of QuantLet:   Long short-term memory (LSTM) Neural Network: Architecture
+Name of QuantLet:   LSTM_Architecture
 
 Published in:       'DEDA Class'
 
