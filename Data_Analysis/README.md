@@ -17,7 +17,7 @@ Output: 'Data_Analysis in .PNG format'
 
 ```
 
-![Picture1](Data_analysis.png)
+![Picture1](Data_Analysis.png)
 
 
 ### Python Code
