@@ -1,4 +1,4 @@
-Name of QuantLet:   Plot CVaR convergence
+Name of QuantLet:   CVaR_converging
 
 Published in:       'DEDA Class'
 
